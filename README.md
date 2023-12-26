@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <div align="leading">
 	
-![trophy](https://github-profile-trophy.vercel.app/?username=Imsyp&no-frame=true&margin-w=3&margin-h=0&rank=SECRET,SSS,SS,S,AAA,AA,A&theme=onedark&no-bg=true)
+![trophy](https://github-profile-trophy.vercel.app/?username=Imsyp&no-frame=true&margin-w=3&margin-h=0&rank=SECRET,SSS,SS,S,AAA,AA,A,BBB,BB,B&theme=onedark&no-bg=true)
 	
 </div>
 

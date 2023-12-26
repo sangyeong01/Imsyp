@@ -6,10 +6,25 @@
 	
 ![trophy](https://github-profile-trophy.vercel.app/?username=Imsyp&no-frame=true&margin-w=3&margin-h=0&rank=SECRET,SSS,SS,S,AAA,AA,A&theme=onedark&no-bg=true)
 	
-</div>
+</div><br>
 
 ##  🌐 Contacts 🌐 
 
 <a href="https://sypdevlog.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=tistory&logoColor=FFFFFF"/></a>
 <a href="https://www.instagram.com/csmsyp/" target="_blank"><img src="https://img.shields.io/badge/csmsyp-000000?style=for-the-badge&logo=instagram&logoColor=FFB6C1"/></a>
 <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcSDZPCFLsbhpscTrhFLzlbJWlxhVrtNjphVXFhzRCSTvtKNslvPMnzGbQkFnppdqLpJSkzTr" target="_blank"><img src="https://img.shields.io/badge/tkddud386@gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=DB4437"/></a>
+
+</div><br>
+    
+## 🔨 Once I've used 🔨
+<div style="display:flex; flex-direction:row;">
+    <!--<img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"> -->
+    <img src="https://img.shields.io/badge/c++-5C3EE8?style=flat-square&logo=c++&logoColor=white"> 
+    <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"> 
+    <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
+    <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> 
+
+
+    <br>
+</div><br>
+</div>

@@ -2,12 +2,6 @@
 
  ---
 
-<div align="leading">
-	
-![trophy](https://github-profile-trophy.vercel.app/?username=Imsyp&no-frame=true&margin-w=3&margin-h=0&rank=SECRET,SSS,SS,S,AAA,AA,A&theme=onedark&no-bg=true)
-	
-</div><br>
-
 ##  🌐 Contacts 🌐 
 
 <a href="https://sypdevlog.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=tistory&logoColor=FFFFFF"/></a>

@@ -17,4 +17,3 @@ Here are some ideas to get you started:
 
 <a href="https://sypdevlog.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=tistory&logoColor=FFFFFF"/></a>
 <a href="https://www.instagram.com/csmsyp/" target="_blank"><img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=tistory&logoColor=833AB4"/></a>
-<a href="https://sypdevlog.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=tistory&logoColor=FFFFFF"/></a>

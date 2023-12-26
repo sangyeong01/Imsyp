@@ -15,7 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Imsyp&show_icons=true&theme=radical)
+<div align="leading">
+	
+![trophy](https://github-profile-trophy.vercel.app/?username=SohyeonKim-dev&no-frame=true&margin-w=3&margin-h=0&rank=SECRET,SSS,SS,S,AAA,AA,A&theme=onedark&no-bg=true)
+	
+</div>
 
 <a href="https://sypdevlog.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=tistory&logoColor=FFFFFF"/></a>
 <a href="https://www.instagram.com/csmsyp/" target="_blank"><img src="https://img.shields.io/badge/csmsyp-000000?style=for-the-badge&logo=instagram&logoColor=FFB6C1"/></a>

@@ -16,7 +16,7 @@
 ## 🔨 Once I've used 🔨
 <div style="display:flex; flex-direction:row;">
     <img src="https://img.shields.io/badge/c++-000080?style=for-the-badge&logo=c%2B%2B&logoColor=white"> 
-    <img src="https://img.shields.io/badge/c-0000FF?style=for-the-badge&logo=c&logoColor=white"> 
+    <img src="https://img.shields.io/badge/c-00008B?style=for-the-badge&logo=c&logoColor=white"> 
     <img src="https://img.shields.io/badge/python-87CEEB?style=for-the-badge&logo=python&logoColor=white"> 
     <br>	
     <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=black"> 

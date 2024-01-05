@@ -3,13 +3,13 @@
  ---
 
 ##  💻 Devlog 💻
-<a href="https://sypdevlog.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-111111?style=for-the-badge&logo=tistory&logoColor=FFFFFF"/></a>
+<a href="https://sypdevlog.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-ffffff?style=for-the-badge&logo=tistory&logoColor=FFFFFF"/></a>
 
 [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=sypdevlog&theme=dark)](https://sypdevlog.tistory.com/)
 
 ##  🌐 Contacts 🌐 
-<a href="https://www.instagram.com/csmsyp/" target="_blank"><img src="https://img.shields.io/badge/csmsyp-111111?style=for-the-badge&logo=instagram&logoColor=FFB6C1"/></a>
-<a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcSDZPCFLsbhpscTrhFLzlbJWlxhVrtNjphVXFhzRCSTvtKNslvPMnzGbQkFnppdqLpJSkzTr" target="_blank"><img src="https://img.shields.io/badge/tkddud386@gmail.com-111111?style=for-the-badge&logo=gmail&logoColor=DB4437"/></a>
+<a href="https://www.instagram.com/csmsyp/" target="_blank"><img src="https://img.shields.io/badge/csmsyp-ffffff?style=for-the-badge&logo=instagram&logoColor=FFB6C1"/></a>
+<a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcSDZPCFLsbhpscTrhFLzlbJWlxhVrtNjphVXFhzRCSTvtKNslvPMnzGbQkFnppdqLpJSkzTr" target="_blank"><img src="https://img.shields.io/badge/tkddud386@gmail.com-ffffff?style=for-the-badge&logo=gmail&logoColor=DB4437"/></a>
 
 </div><br>
     

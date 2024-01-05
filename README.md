@@ -3,7 +3,7 @@
  ---
 
 ##  💻 Devlog 💻
-<a href="https://sypdevlog.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-ffffff?style=for-the-badge&logo=tistory&logoColor=FFFFFF"/></a>
+<a href="https://sypdevlog.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-ffffff?style=for-the-badge&logo=tistory&logoColor=000000"/></a>
 
 [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=sypdevlog&theme=dark)](https://sypdevlog.tistory.com/)
 

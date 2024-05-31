@@ -11,8 +11,6 @@
 <a href="https://www.instagram.com/csmsyp/" target="_blank"><img src="https://img.shields.io/badge/csmsyp-ffffff?style=for-the-badge&logo=instagram&logoColor=FFB6C1"/></a>
 <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcSDZPCFLsbhpscTrhFLzlbJWlxhVrtNjphVXFhzRCSTvtKNslvPMnzGbQkFnppdqLpJSkzTr" target="_blank"><img src="https://img.shields.io/badge/tkddud386@gmail.com-ffffff?style=for-the-badge&logo=gmail&logoColor=DB4437"/></a>
 
-[![Imsyp's GitHub stats](https://github-readme-stats.vercel.app/api?username=Imsyp&show_icons=true&theme=테마a&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
 </div><br>
     
 ## 🔨 Once I've used 🔨
@@ -21,6 +19,7 @@
     <img src="https://img.shields.io/badge/c-4479A1?style=for-the-badge&logo=c&logoColor=white"> 
     <img src="https://img.shields.io/badge/python-87CEEB?style=for-the-badge&logo=python&logoColor=white"> 
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=spring&logoColor=white">
     <br>	
     <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=black"> 
     <img src="https://img.shields.io/badge/javascript-FFA500?style=flat-square&logo=javascript&logoColor=black"> 

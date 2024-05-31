@@ -19,7 +19,9 @@
     <img src="https://img.shields.io/badge/c-4479A1?style=for-the-badge&logo=c&logoColor=white"> 
     <img src="https://img.shields.io/badge/python-87CEEB?style=for-the-badge&logo=python&logoColor=white"> 
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+    <br>
     <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=spring&logoColor=white">
+    <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=spring&logoColor=white">
     <br>	
     <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=black"> 
     <img src="https://img.shields.io/badge/javascript-FFA500?style=flat-square&logo=javascript&logoColor=black"> 

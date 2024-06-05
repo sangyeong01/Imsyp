@@ -25,7 +25,8 @@
     <br>	
     <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=black"> 
     <img src="https://img.shields.io/badge/javascript-FFA500?style=flat-square&logo=javascript&logoColor=black"> 
-    <img src="https://img.shields.io/badge/node.js-F7DF1E?style=flat-square&logo=node.js&logoColor=black"> 
-    
+    <img src="https://img.shields.io/badge/node.js-F7DF1E?style=flat-square&logo=node.js&logoColor=black">
+    <img src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=black">
+    <img src="https://img.shields.io/badge/kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=black">
 </div><br>
 </div>

@@ -5,7 +5,7 @@
 ##  💻 Devlog 💻
 <a href="https://sypdevlog.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-ffffff?style=for-the-badge&logo=tistory&logoColor=000000"/></a>
 
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=sypdevlog&theme=dark&postId)](https://sypdevlog.tistory.com/)
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=sypdevlog&theme=dark&postId=)](https://sypdevlog.tistory.com/)
 
 ##  🌐 Contacts 🌐 
 <a href="https://www.instagram.com/csmsyp/" target="_blank"><img src="https://img.shields.io/badge/csmsyp-ffffff?style=for-the-badge&logo=instagram&logoColor=FFB6C1"/></a>

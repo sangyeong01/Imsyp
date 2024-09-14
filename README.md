@@ -10,12 +10,6 @@
 <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcSDZPCFLsbhpscTrhFLzlbJWlxhVrtNjphVXFhzRCSTvtKNslvPMnzGbQkFnppdqLpJSkzTr" target="_blank"><img src="https://img.shields.io/badge/tkddud386@gmail.com-ffffff?style=for-the-badge&logo=gmail&logoColor=DB4437"/></a>
 
 </div><br>
-
-<picture decoding="async" loading="lazy">
-  <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=imsyp&screen_effect=false&background=linear-gradient(to%20bottom%20right%2C%20%2374dcc4%2C%20%234597e9)">
-  <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=imsyp&screen_effect=true&background=linear-gradient(to%20bottom%20right%2C%20%235580eb%2C%20%232aeeff)">
-  <img  alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=imsyp&screen_effect=false&background=linear-gradient(to%20bottom%20right%2C%20%2374dcc4%2C%20%234597e9)">
-</picture>
     
 ## 🔨 Once I've used 🔨
 <div style="display:flex; flex-direction:row;">

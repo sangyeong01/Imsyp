@@ -3,10 +3,7 @@
  ---
 
 <div>
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Imsyp&layout=compact)](https://github.com/Imsyp/github-readme-stats)
-  
-![Sion's GitHub stats](https://github-readme-stats.vercel.app/api?username=Imsyp&show_icons=true&theme=radical)
+![SY's GitHub stats](https://github-readme-stats.vercel.app/api?username=Imsyp&show_icons=true&theme=radical)
 </div>
 
 ##  💻 Devlog 💻

@@ -2,6 +2,13 @@
 
  ---
 
+<div>
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Imsyp&layout=compact)](https://github.com/Imsyp/github-readme-stats)
+  
+![Sion's GitHub stats](https://github-readme-stats.vercel.app/api?username=Imsyp&show_icons=true&theme=radical)
+</div>
+
 ##  💻 Devlog 💻
 <a href="https://sypdevlog.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-ffffff?style=for-the-badge&logo=tistory&logoColor=000000"/></a>
 

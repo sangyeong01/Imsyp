@@ -18,18 +18,17 @@
     
 ## 🔨 Once I've used 🔨
 <div style="display:flex; flex-direction:row;">
-    <img src="https://img.shields.io/badge/c++-000080?style=for-the-badge&logo=c%2B%2B&logoColor=white"> 
-    <img src="https://img.shields.io/badge/c-4479A1?style=for-the-badge&logo=c&logoColor=white"> 
-    <img src="https://img.shields.io/badge/python-87CEEB?style=for-the-badge&logo=python&logoColor=white"> 
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+    <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=black">
+    <img src="https://img.shields.io/badge/node.js-F7DF1E?style=for-the-badge&logo=node.js&logoColor=black">
+    <img src="https://img.shields.io/badge/c++-000080?style=for-the-badge&logo=c%2B%2B&logoColor=white"> 
     <br>
+    <img src="https://img.shields.io/badge/amazonwebservices-232F3E?style=for-the-badge&logo=spring&logoColor=white">
+    <img src="https://img.shields.io/badge/googlecloud-4285F4?style=for-the-badge&logo=spring&logoColor=white">
     <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=spring&logoColor=white">
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=spring&logoColor=white">
     <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=spring&logoColor=white">
-    <br>	
-    <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=black"> 
-    <img src="https://img.shields.io/badge/javascript-FFA500?style=flat-square&logo=javascript&logoColor=black"> 
-    <img src="https://img.shields.io/badge/node.js-F7DF1E?style=flat-square&logo=node.js&logoColor=black">
-    <img src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=black">
-    <img src="https://img.shields.io/badge/kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=black">
+    
+    
 </div><br>
 </div>

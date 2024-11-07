@@ -23,11 +23,11 @@
     <img src="https://img.shields.io/badge/node.js-F7DF1E?style=for-the-badge&logo=node.js&logoColor=black">
     <img src="https://img.shields.io/badge/c++-000080?style=for-the-badge&logo=c%2B%2B&logoColor=white"> 
     <br>
-    <img src="https://img.shields.io/badge/amazonwebservices-232F3E?style=for-the-badge&logo=spring&logoColor=white">
-    <img src="https://img.shields.io/badge/googlecloud-4285F4?style=for-the-badge&logo=spring&logoColor=white">
-    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=spring&logoColor=white">
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=spring&logoColor=white">
-    <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=spring&logoColor=white">
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white">
+    <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white">
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+    <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white">
     
     
 </div><br>

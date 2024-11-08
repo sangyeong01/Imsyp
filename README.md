@@ -3,7 +3,6 @@
  ---
 
 <div>
-<a href="https://github.com/Imsyp"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imsyp&layout=compact&theme=nord&hide_border=true" /></a> 
  
 ![SY's GitHub stats](https://github-readme-stats.vercel.app/api?username=Imsyp&show_icons=true&theme=radical)
 </div>

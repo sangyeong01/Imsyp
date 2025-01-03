@@ -22,6 +22,7 @@
     <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
     <img src="https://img.shields.io/badge/node.js-F7DF1E?style=for-the-badge&logo=node.js&logoColor=white">
     <img src="https://img.shields.io/badge/c++-000080?style=for-the-badge&logo=c%2B%2B&logoColor=white"> 
+    <img src="https://img.shields.io/badge/Kubernetes-#326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"> 
     <br>
     <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white">
     <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white">

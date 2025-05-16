@@ -1,4 +1,4 @@
-# SangYeongPark
+# SangYeong Park
 
 
 Developer passionate about **DevOps**, **Cloud Computing**, and **Server Programming**.

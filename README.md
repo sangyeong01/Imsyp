@@ -1,6 +1,10 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=timeGradient&height=300&section=header&text=&nbsp;SangYeong&nbsp;Park&fontSize=90)
+# SangYeongPark
+
+
+Developer passionate about **DevOps**, **Cloud Computing**, and **Server Programming**.
 
  ---
+
 
 <div>
  
@@ -12,7 +16,7 @@
 
 </div><br>
 
-### 🏆 Awards
+## 🏆 Awards
 
 | Period | Competition | Prize |
 |-------|:--------:|:---------:|

@@ -22,7 +22,7 @@ Developer passionate about **DevOps**, **Cloud Computing**, and **Server Program
 |-------|:--------:|:---------:|
 | `2025.06` | SW 창업 아이디어 공모전 | 혁신상  |
 | `2025.05` | 경기대, 단국대, 아주대, 경희대 연합 해커톤 Khuthon 2025 | 최우수상(2nd prize)  |
-| `2025.05` | GDGoC 파트 장기연합 프로젝트 '쿠파 챌린지' | 최우수상(1st prize)  |
+| `2025.05` | GDGoC 파트 장기연합 프로젝트 | 최우수상(1st prize)  |
 | `2024.11` | 제 18회 공개 SW 개발자 대회 | 본선(최종 38개 우수작 선정) |
 | `2024.11` | 2024 경희대학교 중앙동아리 학술제 CAAS  | 최우수상(2nd prize) |
 | `2024.07` | Saarland University Capstone Project | 2nd prize  |

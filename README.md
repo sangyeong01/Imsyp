@@ -1,4 +1,4 @@
-# SangYeong Park
+# Sangyeong Park
 
 
 Developer passionate about **DevOps**, **Cloud Computing**, and **Server Programming**.
@@ -8,11 +8,8 @@ Developer passionate about **DevOps**, **Cloud Computing**, and **Server Program
 
 <div>
  
-![SY's GitHub stats](https://github-readme-stats.vercel.app/api?username=Imsyp&show_icons=true&theme=radical)
+![SY's GitHub stats](https://github-readme-stats.vercel.app/api?username=sangyeong01&show_icons=true&theme=radical)
 </div>
-
-##  💻 Devlog 💻
-<a href="https://sypdevlog.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-ffffff?style=for-the-badge&logo=tistory&logoColor=000000"/></a>
 
 </div><br>
 

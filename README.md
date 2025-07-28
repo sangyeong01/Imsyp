@@ -3,8 +3,9 @@
 
 Developer passionate about **DevOps**, **Cloud Computing**, and **Server Programming**.
 
- ---
 
+ ---
+<!--
 
 <div>
  
@@ -27,7 +28,7 @@ Developer passionate about **DevOps**, **Cloud Computing**, and **Server Program
 
 
 </div><br>
-    
+
 ## 🔨 Stacks 🔨
 <div style="display:flex; flex-direction:row;">
     <h3 align="left" style="margin-top: 10px"> Languages & Frameworks </h3>
@@ -63,3 +64,4 @@ Developer passionate about **DevOps**, **Cloud Computing**, and **Server Program
 </div>
 
 </div>
+-->  
